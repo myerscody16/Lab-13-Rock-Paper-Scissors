@@ -1,0 +1,11 @@
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\obj\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.csprojAssemblyReference.cache
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\obj\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\obj\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.AssemblyInfoInputs.cache
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\obj\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.AssemblyInfo.cs
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\bin\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.deps.json
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\bin\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.runtimeconfig.json
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\bin\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.runtimeconfig.dev.json
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\bin\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.dll
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\bin\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.pdb
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\obj\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.dll
+C:\Users\Cody's PC\source\repos\Lab 13 Rock, Paper, Scissors\Lab 13 Rock, Paper, Scissors\obj\Debug\netcoreapp2.2\Lab 13 Rock, Paper, Scissors.pdb
