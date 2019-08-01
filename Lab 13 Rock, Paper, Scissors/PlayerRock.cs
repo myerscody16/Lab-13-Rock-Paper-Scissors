@@ -11,10 +11,5 @@ namespace Lab_13_Rock__Paper__Scissors
             name = "john";
             roshambovalue = 1;
         }
-        //public override int generateRoshambo()
-        //{
-        //    RoshamboValue = 1;
-        //    return RoshamboValue;
-        //}
     }
 }

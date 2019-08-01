@@ -75,6 +75,7 @@ namespace Lab_13_Rock__Paper__Scissors
                 }
                 else if(answer == "n")
                 {
+                    Console.WriteLine("Goodbye.");
                     cont1 = false;
                     cont = false;
                 }

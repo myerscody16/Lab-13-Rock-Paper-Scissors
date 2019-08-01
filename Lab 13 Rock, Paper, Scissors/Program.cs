@@ -28,7 +28,6 @@ namespace Lab_13_Rock__Paper__Scissors
                 cont = Validator.ValidateContinue(); 
             }
         }
-        
     }
 }   
 

@@ -22,7 +22,7 @@ namespace Lab_13_Rock__Paper__Scissors
         }
         public static int generateRoshambo()
         {
-            Array choices = Enum.GetValues(typeof(int));
+            Array choices = Roshambo.GetValues(typeof(Roshambo));
             Random random = new Random();
             int roshambovalue = (int)choices.GetValue(random.Next(choices.Length));
             return roshambovalue;
